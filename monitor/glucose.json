@@ -1,12 +1,42 @@
 [
   {
+    "_id": "573c4b8d940a4faae163fe72",
+    "device": "xDrip-DexbridgeWixel",
+    "date": 1463569291780,
+    "dateString": "2016-05-18T12:01:31.780+0100",
+    "sgv": 146,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 156672,
+    "unfiltered": 158784,
+    "rssi": 100,
+    "noise": 1,
+    "sysTime": "2016-05-18T12:01:31.780+0100",
+    "glucose": 146
+  },
+  {
+    "_id": "573c4a61940a4faae163fe6a",
+    "device": "xDrip-DexbridgeWixel",
+    "date": 1463568991794,
+    "dateString": "2016-05-18T11:56:31.794+0100",
+    "sgv": 143,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 156256,
+    "unfiltered": 156672,
+    "rssi": 100,
+    "noise": 1,
+    "sysTime": "2016-05-18T11:56:31.794+0100",
+    "glucose": 143
+  },
+  {
     "_id": "573c4952940a4faae163fe60",
     "device": "xDrip-DexbridgeWixel",
     "type": "cal",
     "date": 1463568721445,
     "dateString": "2016-05-18T11:52:01.445+0100",
-    "slope": 741.708032084442,
-    "intercept": 50666.045251669086,
+    "slope": 743.2438062333075,
+    "intercept": 50499.60396563852,
     "scale": 1,
     "sysTime": "2016-05-18T11:52:01.445+0100"
   },
@@ -107,36 +137,6 @@
     "rssi": 100,
     "noise": 1,
     "sysTime": "2016-05-18T11:26:31.842+0100",
-    "glucose": 160
-  },
-  {
-    "_id": "573c422d940a4faae163fe2a",
-    "device": "xDrip-DexbridgeWixel",
-    "date": 1463566891865,
-    "dateString": "2016-05-18T11:21:31.865+0100",
-    "sgv": 160,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 160960,
-    "unfiltered": 163584,
-    "rssi": 100,
-    "noise": 1,
-    "sysTime": "2016-05-18T11:21:31.865+0100",
-    "glucose": 160
-  },
-  {
-    "_id": "573c4101940a4faae163fe21",
-    "device": "xDrip-DexbridgeWixel",
-    "date": 1463566591847,
-    "dateString": "2016-05-18T11:16:31.847+0100",
-    "sgv": 160,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 156864,
-    "unfiltered": 163744,
-    "rssi": 100,
-    "noise": 1,
-    "sysTime": "2016-05-18T11:16:31.847+0100",
     "glucose": 160
   }
 ]

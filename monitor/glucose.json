@@ -1,5 +1,40 @@
 [
   {
+    "_id": "573bc84e940a4faae163fa89",
+    "device": "xDrip-DexbridgeWixel",
+    "date": 1463535692040,
+    "dateString": "2016-05-18T02:41:32.040+0100",
+    "sgv": 137,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 152832,
+    "unfiltered": 151136,
+    "rssi": 100,
+    "noise": 1,
+    "sysTime": "2016-05-18T02:41:32.040+0100",
+    "glucose": 137
+  },
+  {
+    "_id": "573bc7a2940a4faae163fa82",
+    "device": "xDrip-DexbridgeWixel",
+    "type": "cal",
+    "date": 1463535519541,
+    "dateString": "2016-05-18T02:38:39.541+0100",
+    "slope": 769.2307692307692,
+    "intercept": 46074.813530461084,
+    "scale": 1,
+    "sysTime": "2016-05-18T02:38:39.541+0100"
+  },
+  {
+    "_id": "573bc7a2940a4faae163fa81",
+    "device": "xDrip-DexbridgeWixel",
+    "type": "mbg",
+    "date": 1463535519541,
+    "dateString": "2016-05-18T02:38:39.541+0100",
+    "mbg": 136.93832,
+    "sysTime": "2016-05-18T02:38:39.541+0100"
+  },
+  {
     "_id": "573bc721940a4faae163fa7e",
     "device": "xDrip-DexbridgeWixel",
     "date": 1463535392023,
@@ -103,50 +138,5 @@
     "noise": 1,
     "sysTime": "2016-05-18T02:06:32.066+0100",
     "glucose": 158
-  },
-  {
-    "_id": "573bbeed940a4faae163fa34",
-    "device": "xDrip-DexbridgeWixel",
-    "date": 1463533292068,
-    "dateString": "2016-05-18T02:01:32.068+0100",
-    "sgv": 163,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 166784,
-    "unfiltered": 163520,
-    "rssi": 100,
-    "noise": 1,
-    "sysTime": "2016-05-18T02:01:32.068+0100",
-    "glucose": 163
-  },
-  {
-    "_id": "573bbdc1940a4faae163fa2a",
-    "device": "xDrip-DexbridgeWixel",
-    "date": 1463532992066,
-    "dateString": "2016-05-18T01:56:32.066+0100",
-    "sgv": 168,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 169696,
-    "unfiltered": 166976,
-    "rssi": 100,
-    "noise": 1,
-    "sysTime": "2016-05-18T01:56:32.066+0100",
-    "glucose": 168
-  },
-  {
-    "_id": "573bbc95940a4faae163fa1f",
-    "device": "xDrip-DexbridgeWixel",
-    "date": 1463532692064,
-    "dateString": "2016-05-18T01:51:32.064+0100",
-    "sgv": 169,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 173952,
-    "unfiltered": 168320,
-    "rssi": 100,
-    "noise": 1,
-    "sysTime": "2016-05-18T01:51:32.064+0100",
-    "glucose": 169
   }
 ]
